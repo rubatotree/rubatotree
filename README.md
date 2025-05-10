@@ -6,4 +6,4 @@
 
 Game Jams ↓
 
-[🐟🫧 Song of the Depths](https://ldjam.com/events/ludum-dare/57/song-of-the-depths-feat-shian) (Ludum Dare 57 Compo, Audio 1st🏆 & Overall 4th & Graphics 4th & Mood 5th)
+Ludum Dare 57 (Compo): [🐟🫧 Song of the Depths feat. Shian](https://ldjam.com/events/ludum-dare/57/song-of-the-depths-feat-shian) (Audio 1st🏆, Overall 4th, Graphics 4th, Mood 5th)
