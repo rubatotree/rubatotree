@@ -13,13 +13,14 @@ I love art & technology. Enthusiastic on game jams and want to make unique indie
 - [📕 XiaoHongShu](https://www.xiaohongshu.com/user/profile/653b6aeb000000000301d9ed)
 - [🎮 itch.io](https://rubatotree.itch.io/)
 - [🕹️ Ludum Dare](https://ldjam.com/users/rubatotree/)
+- [📊 Codeforces](https://codeforces.com/profile/rubatotree)
 - [🌱 ORCID](https://orcid.org/0009-0007-5121-6046)
 
 ## Games
 
 - 🚀✨SETI@dream
   - Ludum Dare 59 / Compo
-  - [🎮itch.io](https://rubatotree.itch.io/setidream), [Ludum Dare](https://ldjam.com/events/ludum-dare/59/setidream), [Video\(Bilibili,](https://www.bilibili.com/video/BV1BRoPBnEJe) [Youtube\)](https://www.youtube.com/watch?v=Ik9iB9uQOXs), [Music\(Bilibili](https://www.bilibili.com/video/BV1r2oPBdEyj), [Youtube\)](https://www.youtube.com/watch?v=9J03c4dJW9Y), [Code](https://github.com/rubatotree/ld59)
+  - [🎮itch.io](https://rubatotree.itch.io/setidream), [Ludum Dare](https://ldjam.com/events/ludum-dare/59/setidream), [Video\(Bilibili,](https://www.bilibili.com/video/BV1BRoPBnEJe) [Youtube\)](https://www.youtube.com/watch?v=Ik9iB9uQOXs), [Music\(Bilibili,](https://www.bilibili.com/video/BV1r2oPBdEyj) [Youtube\)](https://www.youtube.com/watch?v=9J03c4dJW9Y), [Code](https://github.com/rubatotree/ld59)
 - 👻 Wandering Prof. Anthony Bolianos
   - CiGA Game Jam 2025, with [@rinevard](https://github.com/rinevard) and other friends
   - [🎮itch.io](https://rinevard.itch.io/wandering-porf-anthony-bolianos), [Video\(Bilibili\)](https://www.bilibili.com/video/BV1eR3wzCEBK), [Code](https://github.com/rinevard/CGJ2025)
