@@ -7,19 +7,19 @@ I make games and doing research on Computer Graphcis (mainly on Monte Carlo PDE 
 I love art & technology. Enthusiastic on game jams and want to make unique indie games with my own style. I also make music and draw kawaii girls (My icon is painted by myself!).
 
 ## Links
+- [🎮 itch.io](https://rubatotree.itch.io/)
 - [▶️ Youtube](https://www.youtube.com/@rubatotree)
 - [📺 Bilibili](https://space.bilibili.com/3494360710646642)
 - [🐤 Twitter](https://x.com/ruaruatree)
-- [📕 XiaoHongShu](https://www.xiaohongshu.com/user/profile/653b6aeb000000000301d9ed)
-- [🎮 itch.io](https://rubatotree.itch.io/)
+- [📕 RedNote](https://www.xiaohongshu.com/user/profile/653b6aeb000000000301d9ed)
 - [🕹️ Ludum Dare](https://ldjam.com/users/rubatotree/)
 - [📊 Codeforces](https://codeforces.com/profile/rubatotree)
-- [🌱 ORCID](https://orcid.org/0009-0007-5121-6046)
 
 ## Games
 
 - 🚀✨SETI@dream
   - Ludum Dare 59 / Compo
+  - Overall/Graphics/Mood 2nd🏆🏆🏆， Audio 1st🏆, Innovation 9th
   - [🎮itch.io](https://rubatotree.itch.io/setidream), [Ludum Dare](https://ldjam.com/events/ludum-dare/59/setidream), [Video\(Bilibili,](https://www.bilibili.com/video/BV1BRoPBnEJe) [Youtube\)](https://www.youtube.com/watch?v=Ik9iB9uQOXs), [Music\(Bilibili,](https://www.bilibili.com/video/BV1r2oPBdEyj) [Youtube\)](https://www.youtube.com/watch?v=9J03c4dJW9Y), [Code](https://github.com/rubatotree/ld59)
 - 👻 Wandering Prof. Anthony Bolianos
   - CiGA Game Jam 2025, with [@rinevard](https://github.com/rinevard) and other friends
@@ -37,4 +37,4 @@ I love art & technology. Enthusiastic on game jams and want to make unique indie
 - ⚙ Probe-based Walk on Spheres for Efficient Path Reusing. \[[DOI](https://doi.org/10.1145/3811366)\] \[[Code](https://github.com/USTCGCL-WoS/Walk-on-Probes)\]
   - Wanchao Huang\*, **Yutian Zhu\***, Qing Fang†, Ligang Liu.
 - 💡 Importance Sampling Guided Neural Radiosity. \[[DOI](https://www.sciencedirect.com/science/article/pii/S0097849325003139)\]
-  - Huangsheng Du, Youcheng Cai†, **Yutian Zhu**, Peifeng Li, and Ligang Liu
+  - Huangsheng Du, Youcheng Cai†, **Yutian Zhu**, Peifeng Li, Ligang Liu.
