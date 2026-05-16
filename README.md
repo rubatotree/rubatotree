@@ -2,7 +2,7 @@
 
 I'm Yutian Zhu/rubatotree, a junior student major in CS in University of Science and Technology of China.
 
-I make games and doing research on Computer Graphcis (mainly on Monte Carlo PDE & Rendering).
+I make games and do research on Computer Graphcis (mainly on Monte Carlo PDE & Rendering).
 
 I love art & technology. Enthusiastic on game jams and want to make unique indie games with my own style. I also make music and draw kawaii girls (My icon is painted by myself!).
 
@@ -19,7 +19,6 @@ I love art & technology. Enthusiastic on game jams and want to make unique indie
 
 - 🚀✨SETI@dream
   - Ludum Dare 59 / Compo
-  - Overall/Graphics/Mood 2nd🏆🏆🏆， Audio 1st🏆, Innovation 9th
   - [🎮itch.io](https://rubatotree.itch.io/setidream), [Ludum Dare](https://ldjam.com/events/ludum-dare/59/setidream), [Video\(Bilibili,](https://www.bilibili.com/video/BV1BRoPBnEJe) [Youtube\)](https://www.youtube.com/watch?v=Ik9iB9uQOXs), [Music\(Bilibili,](https://www.bilibili.com/video/BV1r2oPBdEyj) [Youtube\)](https://www.youtube.com/watch?v=9J03c4dJW9Y), [Code](https://github.com/rubatotree/ld59)
 - 👻 Wandering Prof. Anthony Bolianos
   - CiGA Game Jam 2025, with [@rinevard](https://github.com/rinevard) and other friends
