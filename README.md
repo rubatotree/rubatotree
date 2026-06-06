@@ -7,6 +7,8 @@ I make games and do research on Computer Graphcis (mainly on Monte Carlo PDE & R
 I love art & technology. Enthusiastic on game jams and want to make unique indie games with my own style. I also make music and draw kawaii girls (My icon is painted by myself!).
 
 ## Links
+- [☕️ Blog](https://rubatotree.github.io/blog/)
+- [🌂 Academic Portfolio](https://rubatotree.github.io/academic/)
 - [🎮 itch.io](https://rubatotree.itch.io/)
 - [▶️ Youtube](https://www.youtube.com/@rubatotree)
 - [📺 Bilibili](https://space.bilibili.com/3494360710646642)
